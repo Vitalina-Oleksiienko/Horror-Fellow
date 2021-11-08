@@ -1,0 +1,21 @@
+:root {
+  --main-bg: #000000;
+  --secondary-bg: #fef3e4;
+  --main-text-color: #ffffff;
+  --secondary-text-color: #cd3939;
+  --akcent-text-color: #fd5252;
+  --buttons-bg: #ab816c;
+  --buttons-text-color: #ffffff;
+  --box-shadow: 0px 4px 4px rgba(171, 129, 108, 0.25);
+  --form-shadow: -4px -4px 4px rgba(171, 129, 108, 0.15), 4px 4px 4px rgba(171, 129, 108, 0.15);
+  --placeholder-color: rgba(171, 129, 108, 0.5);
+  --icons-color: rgba(255, 255, 255, 0.45);
+  --menu-focus: #876655;
+  --form-valid: rgb(49, 180, 38);
+  --form-invalid: rgba(255, 7, 7, 0.404);
+  --border-form-invalid: rgba(177, 2, 2, 0.705);
+  --main-font: 'Montserrat';
+  --secondary-font: 'Caveat Brush';
+  --transition-duration: 300ms;
+  --transition-function: ease-in-out;
+}
